@@ -1,0 +1,17 @@
+{
+  "name": "Orbit Lab",
+  "short_name": "Orbit Lab",
+  "description": "Launch probes, slingshot around planets, and explore gravity & orbits.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1021",
+  "theme_color": "#0b1021",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
